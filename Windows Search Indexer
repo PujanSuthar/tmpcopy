@@ -1,0 +1,13 @@
+Question it can solve:
+
+What user files exist or existed on this system?
+What files and folders did a user interact with, and for how long?
+Are there recoverable contents of the files of interest?
+Are there recoverable deleted file metadata?
+What URLs did a user access using IE/Edge?
+
+From this directory by deafult it is indexing: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\*
+STored in the database at : C:\ProgramData\Microsoft\Search\Data\AppIications\Windows\ windows.edb
+
+windows Search indexing is not enabled by default in windows servers, but it is enabled by deafult in win 10. os
+
